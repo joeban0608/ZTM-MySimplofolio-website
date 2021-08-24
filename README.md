@@ -12,4 +12,5 @@ I fix it for my portfolio [link here](https://confident-easley-e91b54.netlify.ap
       - node -v
       - npm -v
   2. Changed the environment variable in Netlify by click show advanced which your check version were execute your project.  
-  
+  ![image](https://github.com/joeban0608/ZTM-MySimplofolio-website/blob/main/Netlify_solution1.png)
+  ![image](https://github.com/joeban0608/ZTM-MySimplofolio-website/blob/main/Netlify_solution2.png)
