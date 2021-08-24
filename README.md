@@ -9,6 +9,6 @@ There is some following to publish your website:
 * If you have problem with npm error in publish website by Netlify that muse be version problem.  
   You could try this follow:  
   1. confirm your locally version could execute simplofolio project about two follow: 
-    - node -v
-    - npm -v
+      - node -v
+      - npm -v
   2. hellp
