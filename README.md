@@ -8,4 +8,5 @@ There is some following to publish your website:
 * follow the student [video](https://www.youtube.com/watch?v=soaG3GNSxJY "title").
 * If you have problem with npm error in publish website by Netlify that muse be version problem.  
   You could try this follow:  
-1 hi
+  1. hi
+  2. 
