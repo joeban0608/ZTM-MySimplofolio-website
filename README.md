@@ -8,5 +8,7 @@ There is some following to publish your website:
 * follow the student [video](https://www.youtube.com/watch?v=soaG3GNSxJY "title").
 * If you have problem with npm error in publish website by Netlify that muse be version problem.  
   You could try this follow:  
-  1. hi
-  2. 
+  1. confirm your locally version could execute simplofolio project about two follow: 
+    - node -v
+    - npm -v
+  2. hellp
