@@ -11,4 +11,4 @@ There is some following to publish your website:
   1. Confirm your locally version could execute simplofolio project about two follow: 
       - node -v
       - npm -v
-  2. Changed the environment variable in Netlify by click show advanced which your check version were execute your project.  
+   2. Changed the environment variable in Netlify by click show advanced which your check version were execute your project.  
