@@ -11,6 +11,6 @@ I fix it for my portfolio [link here](https://confident-easley-e91b54.netlify.ap
   1. Confirm your locally version could execute simplofolio project about two follow: 
       - node -v
       - npm -v
-  2. Changed the environment variable in Netlify by click show advanced which your check version were execute your project.  
+  2. Changed the environment variable in Netlify by click show advanced which you check version that could execute your project.  
   ![image](https://github.com/joeban0608/ZTM-MySimplofolio-website/blob/main/Netlify_solution1.png)
   ![image](https://github.com/joeban0608/ZTM-MySimplofolio-website/blob/main/Netlify_solution2.png)
