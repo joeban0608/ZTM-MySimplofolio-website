@@ -5,7 +5,7 @@
 - This is really awesome and useful!  
 
 ---
-### 我利用此模板做了一個portfolio:[請點連結](https://confident-easley-e91b54.netlify.app/)
+### 我利用此模板做了一個portfolio：[請點連結](https://confident-easley-e91b54.netlify.app/)
 I fix it for my portfolio [link here](https://confident-easley-e91b54.netlify.app/)  
 
 ---
