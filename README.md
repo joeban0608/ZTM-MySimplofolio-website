@@ -12,7 +12,7 @@ I fix it for my portfolio [link here](https://confident-easley-e91b54.netlify.ap
 ### There is some following to publish your website:  
 這裡有一些步驟可以將你的portfolio放到網站上，這是我測試可以的方式： 
 1. 跟著影片步驟做
-2. 如果你在Netlify上遇到NPM error，那應該是版本問題，你可以跟著我以下的圖片步修改試試看：  
+2. 如果你在Netlify上遇到NPM error，那應該是版本問題，你可以跟著我以下的圖片步驟修改試試看：  
 * follow the student [video](https://www.youtube.com/watch?v=soaG3GNSxJY "title").
 * If you have problem with npm error in publish website by Netlify that muse be version problem.  
   You could try this follow:  
